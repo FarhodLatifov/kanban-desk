@@ -1,7 +1,9 @@
-
+import KanbanBoard from "./components/KanbanBoard"
 const App = () => {
   return (
-    <div className="text-red-300">App</div>
+    <div className="">
+      <KanbanBoard/>
+    </div>
   )
 }
 

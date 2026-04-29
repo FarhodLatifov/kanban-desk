@@ -1,6 +1,12 @@
 @import "tailwindcss";
 
+html, body, #root {
+  background-color: black;
+  color: white;
+  box-sizing: border-box;
+}
+
 :root{
   --mainBgColor: #0D1117;
-  --columnBgColor: #161C22
+  --columnBgColor: #161C22;
 }
