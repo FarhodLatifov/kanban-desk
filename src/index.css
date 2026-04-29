@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root{
+  --mainBgColor: #0D1117;
+  --columnBgColor: #161C22
+}
